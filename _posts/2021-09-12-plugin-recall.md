@@ -1,7 +1,7 @@
 ---
 title: Uso y configuracion de plugin Recall
-tags: Markdown
-categories: Plugin Anki SM2 Leitner
+tags: Recall Anki
+categories: Plugin
 comments: true
 author: Drina Leanos
 ---

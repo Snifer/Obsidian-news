@@ -59,7 +59,7 @@ Creo que este es uno de los primeros plugins en utilizar pagos [Ozanshare Publis
 
 El plugin de esta semana es [Obsidian Itinerary](https://github.com/coddingtonbear/obsidian-itinerary) el cual nos permiter contar con un calendario y definir hitos en especifico planificando la semana e incluso el mes. *(Vale aclarar que el concepto inicial del plugin es para un itinerario de viaje pero por que no cambiar el concepto inicial?)*
 
-![](../calendar_itinerarioplugin.png)
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/assets/img/calendar_itinerarioplugin.png)
 
 A continuación explicamos el proceso y uso básico recuerda que el resto de información lo tienes disponible en el repositorio del plugin. 
 
@@ -122,7 +122,7 @@ tag:
 
 Toda la información referente a los tags es visualizada de la siguiente manera. teneidno la referencia respectiva. 
 
-![](../ResultadoTags.png)
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/assets/img/ResultadoTags.png)
 
 Lo usuaria para la planificación mensual de mi flujo de trabajo, y registrando eventos en particular, y tu como lo usarias? 
 

@@ -71,6 +71,8 @@ input[type=checkbox]:checked {
 .markdown-preview-view .task-list-item { padding-inline-start:25px; }
 ```
 
+Autor: [kepano](https://forum.obsidian.md/u/kepano)
+
 El resultado final despues de la tarea se vera de la siguiente manera. 
 
 

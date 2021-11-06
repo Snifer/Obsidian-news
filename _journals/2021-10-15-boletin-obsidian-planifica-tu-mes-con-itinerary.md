@@ -22,7 +22,7 @@ Si te gusta Obsidian y quieres brindar un apoyo y soporte a los desarrolladores 
 
 Recuerda que Obsidian es 100% gratuito solo para uso personal, y si sera el uso Comercial te invito a que des una vuelta por el siguiente [enlace](https://obsidian.md/pricing)
 
-## Obsidian para iniciantes.
+## Obsidian para principiantes
 
 Empezamos este apartado explicando lo básico de  [Markdown](https://obsidian-es.netlify.app/posts/markdown) y como este nos permite redactar documentos. 
 

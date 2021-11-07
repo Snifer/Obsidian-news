@@ -7,11 +7,11 @@ author_bio:
 description: "Obsidian Es: Centro de ideas, y conocimiento para toda la comunidad sobre Obsidian.md"
 footer_description:
   ''
-notes_url: "https://obsidian-news.netlify.app/"
+notes_url: "https://obsidian-es.netlify.app/"
 profile_pic: ""
 favicon: /assets/img/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://obsidian-news.netlify.app/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://obsidian-es.netlify.app/" # the base hostname & protocol for your site, e.g. https://example.com
 theme_color: black
 encoding: utf-8
 

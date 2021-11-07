@@ -1,9 +1,9 @@
 ---
-title: "06 de Noviembre del 2021, Crea tu propio Bullet Journal, Plugins,  "
+title: "06 de Noviembre del 2021, Crea tu propio Bullet Journal, Plugins, Cifra tu contenido de Obsidian! con Cryptsidian "
 author: Snifer
 ---
 
-Estuvo algo parado el Boletín por 2 motivos principales, el primero no pude acceder a Netlify con la cuenta y no permitía actualizar ni acceder , muchas gracias a todos los que visitaron el espacio y se animaron a compartir, lo segundo fue que estuve con trabajo lo cual me llevo a retrasarlo también, por ello comenzamos con este conociendo el plug-in Templater, veremos un poco más de BuJo Bullet Journal, contando con Laura que comparte su configuración para tenerlo de forma digital. 
+Estuvo algo parado el Boletín por 2 motivos principales, el primero no pude acceder a Netlify con la cuenta y no permitía actualizar ni acceder , muchas gracias a todos los que visitaron el espacio y se animaron a compartir, lo segundo fue que estuve con trabajo lo cual me llevo a retrasarlo también, por ello comenzamos con este conociendo el plug-in Templater, compartimos dos plug-ins en particular Fantasy Calendar y en modo de prueba Cryptsidian con el podrás cifrar tu Vault y subirlo a cualquier nube, sin miedo a que terceros accedan a tus datos. Veremos un poco más de BuJo Bullet Journal, contando con Laura que comparte su configuración para tenerlo de forma digital. 
 
 ### Crea tu Bullet Journal en Obsidan
 
@@ -151,4 +151,4 @@ Para volver a las notas en texto claro usamos la opción de Decrypt y tendremos 
 ## NOTAS
 
 
-Retornamos nuevamente para compartir en este espacio, espero tener mas tiempo las próximas semanas e ir realizando diferentes tipos de Template para que todos puedan acceder al mismo, cualquier comentario puedes hacerlo en el grupo de [Telegram](https://t.me/ObsidianEs)  haciendo uso del tag #Boletin01.  
+Retornamos nuevamente para compartir en este espacio, espero tener mas tiempo las próximas semanas e ir realizando diferentes tipos de Template para que todos puedan acceder al mismo, cualquier comentario puedes hacerlo en el grupo de [Telegram](https://t.me/ObsidianEs)  haciendo uso del tag #Boletin02.

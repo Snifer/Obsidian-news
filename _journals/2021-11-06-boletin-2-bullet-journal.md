@@ -9,7 +9,7 @@ Estuvo algo parado el Boletín por 2 motivos principales, el primero no pude acc
 
 Esta semana, tenemos el agrado de tener el segundo aporte realizado a este proyecto y viene de la mano de Laura, creadora del Podcast [Vacía tu Bandeja](https://t.me/Vaciatubandeja), nos habla sobre como tener un BuJo Bullet Journal Digital en Obsidian como estuvo realizando su migración y posible uso con la herramienta. 
 
-📓 [Crea tu Bullet Journal con Obsidian]()
+📓 [Crea tu Bullet Journal con Obsidian](https://obsidian-es.netlify.app/posts/bullet-journal-en-obsidian)
 
 
 Puedes escuchar el Podcast que habla sobre [Zettelkasten y Bullet Journal](https://audioboom.com/posts/7866359-creando-mi-zettelkasten-con-obsidian-y-bullet-journal)
@@ -75,9 +75,10 @@ Los plug-ins de esta semana están más orientados a robustecer o mejorar un poc
 
  - [Kanboard](https://github.com/mgmeyers/obsidian-kanban) su nombre creo que llega a especificar de una buena manera este plug-in nos da la posibilidad de crear un Kanban en Obsidian a través de Markdown. 
 - [Media Extended](https://github.com/aidenlx/media-extended) es un plugin que nos permite tomar apuntes sobre un video en particular todo en formato markdown, para ello necesitamos lo siguiente:
-
-	![[MediaExtendedExampleSniferL4bs.png]]
 	
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/MediaExtendedExampleSniferL4bs.jpg)
+
+
 1.  Agregamos la dirección URL en formato Markdown.
 2. Una vez que damos `clic + Ctrl` sobre el enlace nos abrira en una ventana nueva en donde tendremos la estrella disponible. 
 3. SI presionamos la estrella en el momento del video que deseemos tomar un apunte generandonos el time stamp respectivo. 
@@ -98,8 +99,56 @@ Si deseas conocer un poco mas sobre las funcionalidades del plugin puedes ir a s
 
 El anterior boletín compartimos Obsidian Itinerary hoy venimos con una alternativa al de Calendario creo que este cumple mejor las expectativas que el anterior, ya que nos permite generar un detalle de tareas en el mismo calendario adicionalmente permitiéndo generar una nota por evento esto nos brinda una mejor centralización de información que generamos al menos en mi flujo va directo. 
 
+La configuracion del calendario es bastante sencillo podemos tener más de uno y dividir en proyectos por ejemplo, como prueba y uso del calendario arme 2 uno de lo que es mi proyecto Snifer@L4b's y el otro para el trabajo
+
+
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/fantastic-calendar/SettingsCalendarFantasy.png)
+
+Para cambiar el calendario nos dirigimos a la rueda y seleccionar switch Calendar.
+
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/fantastic-calendar/switchCalendar.png)
+
+
+Como ven en el siguiente ejemplo se tiene un evento relacionado con una nota en este caso es **Curso Zeropoint Security** permitiendo visualizar las notas directamente si lo queremos de esa manera.
+
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/fantastic-calendar/PreviewCalendar.png)
+
+## Modo Debug
+
+En este pequeño espacio estaremos hablando de algunos plug-ins o funciones especiales de Obsidian que pueden potencialmente llevar a la perdida de datos e información  por lo tanto es bajo tu responsabilidad la ejecución de los mismos, por mi parte los mencionaré para que tengas en cuenta. 
+
+[Cryptisidian](https://github.com/triumphantomato/cryptsidian) nos permite cifrar todo nuestro VAULT con ``aes-256-ctr`` teniendo en cuenta que al ser un plug-in externo y más con el cifrado durante las pruebas que realice llego a cifrar y descifrar los datos de manera correcta, pero ten en cuenta que puede fallar y lo más importante no debes olvidar la contraseña que configures. 
+
+***Ejemplo de uso***
+
+La instalación del plug-in es ir directo a Community Plugins buscarlo y activar. 
+
+En este vault de prueba contamos con 3 notas que como ven es con el siguiente contenido
+
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/cryptsidian/datospurosnoCifrados.png)
+
+
+
+Al presionar el comando `Ctrl + p` buscamos Cryptsidian  y tendremos dos opciones. 
+
+* **Encrypt Modal:** Cifrado
+* **Decrypt Modal:** Descifrado
+
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/cryptsidian/ModalCryptsidian.png)
+
+Al seleccionar la opción de Cifrado **Encrypt** tendremos la siguiente ventana para registrar una contraseña para el proceso de Cifrado lee con atención las opciones y sugerencias. 
+
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/cryptsidian/cypherimg.png)
+
+El resultado después de seleccionar la opción de Cifrado `Encrypt` es el siguiente. 
+
+
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/cryptsidian/datosCifrados.png)
+
+
+Para volver a las notas en texto claro usamos la opción de Decrypt y tendremos el acceso nuevamente, recuerda que no debes de olvidarte el password respectivo, sino perderás la información. 
 
 ## NOTAS
 
 
-Retornamos nuevamente  compartimos en este espacio, cualquier comentario puedes hacerlo en el grupo de [Telegram](https://t.me/ObsidianEs)  haciendo uso del tag #Boletin01.  
+Retornamos nuevamente para compartir en este espacio, espero tener mas tiempo las próximas semanas e ir realizando diferentes tipos de Template para que todos puedan acceder al mismo, cualquier comentario puedes hacerlo en el grupo de [Telegram](https://t.me/ObsidianEs)  haciendo uso del tag #Boletin01.  

@@ -31,9 +31,11 @@ Aunque no es parte del método he agregado también un registro semanal. Y Ahora
 
 Con el plugin **Calendar**, aparte de tener un calendario en Obsidian podemos crear y gestionar nuestro registro diario de forma más visual. Pero si lo unimos al plug-in **Periodic notes** podremos gestionar todos nuestros registros, no solamente el diario. Solo hemos de indicarle que plantilla ha de utilizar en cada caso y en que carpeta queremos que los guarde.  
 
-![[DailyNOtes.jpg]]
 
-![[MontlyNotes.jpg]]
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/DailyNOtes.jpg)
+
+
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/MontlyNotes.jpg)
 
  Ya solo nos queda añadir un atajo de teclado para cada uno de esos registros. En mi caso les he puesto:
  
@@ -49,23 +51,22 @@ Con el plugin **Calendar**, aparte de tener un calendario en Obsidian podemos cr
  
 Además el registro dirio y semanal podremos también crearlos desde el calendario haciendo click en el día o semana correspondiente.
 
-![[calendarPlugin.jpg]]
-
-
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/calendarPlugin.jpg)
 
 Veamos ahora los dos plugin siguientes, **Task** y **Advanced tables**
 
 Con **Task**, podremos dentro de una nota crear y modificar las tareas de forma fácil. Aparte de generar listas de tareas y gestionarlas como mejor deseemos. Puedes mirar la documentación del plugin [aquí](https://schemar.github.io/obsidian-tasks/)
 
-![[CreateEditTask.jpg]]
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/CreateEditTask.jpg)
 
 Con **Advanced tables**, podremos generar una tabla rápidamente y además tendremos una paleta de comandos para modificarla. 
 
-![[AdvanceTables.jpg]]
+
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/AdvanceTables.jpg)
 
 Y con esto tendríamos la estructura del Bullet Journal más dos plugin que nos ayudarna con las tareas y tablas.  Con lo que nos faltaría el *Índice* para poder acceder al contenido que vayamos creando. Este no será igual que el que llevamos en papel y lo he pensado de la siguiente manera: 
 
-![[Template.jpg]]
+![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/Template.jpg)
 
 Es más parecido a un MOC que a un índice.  Desde aquí enlazaremos con:
 

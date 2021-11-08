@@ -12,8 +12,7 @@ Todas las notas o referencias en este espacio son funciones realizadas por la co
 Obsidian por defecto cuenta con el Plug-in de Backlinks que permite visualizar todas las notas que tienen como referencia a la nota actual, pero si deseas mostrar en una nota en particular puedes usar lo siguiente
 
 <code>
-``` 
-dataview
+``` dataview
 list from [[FICHERO]]
  
 ```

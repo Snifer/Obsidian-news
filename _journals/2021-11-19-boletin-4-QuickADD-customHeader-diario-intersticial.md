@@ -1,15 +1,15 @@
 ---
-title: "19 de Noviembre del 2021,Diario Intersticial, conoce QuickADD, generando "
+title: "19 de Noviembre del 2021,Diario Intersticial, conoce QuickADD, genera atajos rapidos en Mobile"
 author: Snifer
 ---
 
 El cuarto Boletín de Obsidian en Español que traemos, un poco tarde por cuestiones personales, pero como cada Semana compartimos contenido y material de la herramienta que usamos de alguna manera en nuestro día a día o tenemos como un uso temporal.
 
-
-
 ### Que es un Diario Intersticial 
 
-Marilyn integrande del grupo de Telegram nos comparte que es un Diario Intersticial y cual es el uso que podemos darle, para mejorar nuestra productividad. 
+Marilyn integrante del grupo de Telegram nos comparte que es un Diario Intersticial y cuál es el uso que podemos darle, para mejorar nuestra productividad. 
+
+ - [Diario Intersticial](https://obsidian-es.netlify.app/posts/diario-intersticial)
 
 La necesidad de automatizar el registro estuvimos resolviéndolo en el grupo. 
 
@@ -44,13 +44,13 @@ En el siguiente video podrás conocer un flujo para Life Disciplines Projects, e
 
 ## Aprendizaje de Plugins 
 
-Estuvimos viendo tanto [Dataview](https://obsidian-es.netlify.app/journals/boletin-obsidian-planifica-tu-mes-con-itinerary) como [Templater](https://obsidian-es.netlify.app/journals/boletin-2-bullet-journal-cryptsidian) y [Excalidraw](). 
+Estuvimos viendo tanto [Dataview](https://obsidian-es.netlify.app/journals/boletin-obsidian-planifica-tu-mes-con-itinerary) como [Templater](https://obsidian-es.netlify.app/journals/boletin-2-bullet-journal-cryptsidian) y [Excalidraw](https://obsidian-es.netlify.app/journals/boletin-3-exportanotas-pandoc-excalidraw). 
 
 Esta semana veremos otro plugin que nos permite automatizar algunas tares el cual es QuickADD. 
 
 [How to use QuickADD for Obsidian](https://www.youtube.com/watch?v=gYK3VDQsZJo)
 
-Esta semana que paso en el grupo de [Telegram](https://t.me/ObsidianEs) estuvimos automatizando un proceso con QuickADD, y este pueden verlo en el material que es compartido [[2021-11-19-diario-intersticial]]
+Esta semana que paso en el grupo de [Telegram](https://t.me/ObsidianEs) estuvimos automatizando un proceso con QuickADD, y este pueden verlo en el material que es compartido en el [diario intersticial](https://obsidian-es.netlify.app/posts/diario-intersticial)
 
 ## Personaliza tu Obsidian con CSS
 

@@ -65,7 +65,6 @@ Adicionalmente puedes usar cualquier otro servicio como ser Google Drive, iCloud
 
 Para registrar una tarea tenemos que ponerla con el formato de un Checkbox y entre parentesis la fecha seguido de la hora de forma automática sin importar las notas donde tengas  las tareas se adiciona un nuevo Panel llamado Remminder, puedes ver el ejemplo.
 
-![[RemminderPlugin.png]]
 ![](https://raw.githubusercontent.com/Snifer/Obsidian-news/main/imagenes/boletin3/RemminderPlugin.png)
 
 Además una funcionalidad que me agrada y mucho es la integración con Kanban y con las notificaciones del sistema operativo.
